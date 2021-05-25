@@ -1,4 +1,4 @@
-
+/*
 (Display four patterns using loops) Use nested loops that display the following
 patterns in four separate programs:
 Pattern A        Pattern B  Pattern C    Pattern D
@@ -8,9 +8,9 @@ Pattern A        Pattern B  Pattern C    Pattern D
 1 2 3 4 	1 2 3       4 3 2 1           1 2 3
 1 2 3 4 5 	1 2 	  5 4 3 2 1 	    	    1 2
 1 2 3 4 5 6 	1 	6 5 4 3 2 1 	            1
+*/
 
 
-SOLUTION
 
 	public class Main
 	{
