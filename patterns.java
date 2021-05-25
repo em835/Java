@@ -1,5 +1,5 @@
 
-3.(Display four patterns using loops) Use nested loops that display the following
+(Display four patterns using loops) Use nested loops that display the following
 patterns in four separate programs:
 Pattern A        Pattern B  Pattern C    Pattern D
 1       	1 2 3 4 5 6       1 	1 2 3 4 5 6
